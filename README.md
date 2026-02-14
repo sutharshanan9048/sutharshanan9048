@@ -18,12 +18,11 @@
 <br>
 
 <div align="center">
-
   <a href="mailto:sutharsan9048@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/sutharshanan-m">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -34,62 +33,96 @@
   <a href="https://leetcode.com/sutharshanan/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-
 </div>
 
-<br><br>
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="32"/></a>
-  <a href="https://hibernate.org"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="32"/></a>
-  <br><br>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/></a>
-  <br><br>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sutharshanan9048&style=flat-square&color=00C4B4" alt="Profile views" />
 </p>
 
 <br>
 
-## 🚀 Projects
+## 👨‍💻 About Me
 
-### Mini Product Feedback Management System
-**React.js • Spring Boot • MySQL**  
-→ Feedback platform with post, upvote, track features  
-→ Filtering & sorting interface built in React
+🎓 **Bachelor of Engineering (EEE)** – Velalar College of Engineering & Technology (2021–2025)  
+   • CGPA: 8.34  
 
-### Full-Stack E-Commerce Platform
-**Spring Boot • React • MySQL**  
-→ Admin panel + customer shopping experience  
-→ Shopping cart, secure checkout, REST API backend
+📚 **Higher Secondary Education** – Government Model Higher Secondary School  
+   • 12th: 82.50% | 10th: 74.60%  
+
+💻 **Full-Stack Java Developer** with hands-on experience in **Spring Boot, Hibernate, React & MySQL**  
+🚀 Passionate about building **scalable, real-world web applications**  
+🧠 Strong foundation in **OOP, DSA, JDBC & RESTful APIs**  
+🎯 Actively seeking **Software Developer / Java Developer roles**  
 
 <br>
 
-## 💼 Experience
+## 🛠️ Tech Stack & Skills
 
+### 💻 Programming Language
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />
+</p>
+
+### 🗄️ Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,maven,docker" height="50" />
+</p>
+
+<br>
+
+## 💼 Internships
+
+### 🏢 Kodnest Technologies – Bengaluru
 **Software Engineer Intern (Training Program)**  
-Kodnest Technologies, Bengaluru  
-*May 2025 – Jan 2026*  
-• Full-stack training (Java + Spring Boot + React + MySQL)  
-• Built REST APIs, CRUD operations, followed industry standards
+📅 May 2025 – Jan 2026  
+- Trained in **Java, Spring Boot, React & MySQL**  
+- Built **RESTful APIs** and implemented **CRUD operations**  
+- Understood **end-to-end full-stack application flow**  
 
+### 🏢 Workcohol Solutions Pvt. Ltd. – Chennai
 **Software Developer Intern (Virtual)**  
-Workcohol Solutions Pvt. Ltd., Chennai  
-*Jan – Mar 2025*  
-• Project-based development & feature enhancement  
-• Improved problem-solving & code quality
+📅 Jan 2025 – Mar 2025  
+- Worked on real-time **JavaScript-based projects**  
+- Improved **problem-solving and code quality**  
 
 <br>
 
-## 🏆 LeetCode Stats
+## 📂 Projects
+
+### 🛒 E-Commerce Platform
+- Full-stack application with **admin & customer modules**  
+- Secure backend using **Spring Boot & REST APIs**  
+- Database integration with **MySQL**  
+- Tech: Spring Boot, React, MySQL  
+
+### 📝 Mini Product Feedback Management System
+- Users can **post, upvote & track feedback**  
+- Implemented **filtering & sorting** using React  
+- Tech: React.js, Spring Boot, MySQL  
+
+### 🧮 Calculator App
+- Simple calculator using **JavaScript**  
+- Clean UI with CSS  
+
+### ✅ Form Validation Project
+- Client-side validation using **JavaScript**  
+
+<br>
+
+## 🧠 Problem Solving & Achievements
+
+- ✅ Solved **165+ Java problems on LeetCode**  
+- Strong understanding of **Time & Space Complexity**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-165%2B%20Java%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=22272e" />
@@ -97,22 +130,30 @@ Workcohol Solutions Pvt. Ltd., Chennai
 
 <br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutharshanan9048&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C4B4&icon_color=00C4B4&text_color=ffffff" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sutharshanan9048&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutharshanan9048&theme=radical&hide_border=true&background=0d1117&stroke=00000000&dates=00C4B4&fire=FF5555&ring=00C4B4&currStreakNum=ffffff" width="48%" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutharshanan9048&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshanan9048&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshanan9048&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C4B4&text_color=ffffff" width="60%" />
-</div>
+## 📫 Contact Me
+
+📧 Email: **sutharsan9048@gmail.com**  
+🔗 LinkedIn: [sutharshanan-m](https://www.linkedin.com/in/sutharshanan-m)  
+💻 GitHub: [sutharshanan9048](https://github.com/sutharshanan9048)  
 
 <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting%20❤️&fontSize=40&fontColor=fff&fontAlignY=45&animation=twinkling" />
 </div>
+
+⭐ *Thank you for visiting my profile! Feel free to connect with me.*
